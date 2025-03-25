@@ -1,4 +1,8 @@
+Na compressão de imagens, usar dois sites diferentes.
 https://tinypng.com/ - é uma ferramenta online que comprime imagens PNG e JPEG para reduzir o tamanho do arquivo sem perder qualidade perceptível. Ele usa técnicas de compressão inteligente para diminuir o peso das imagens, tornando-as mais leves para carregar em sites e aplicativos.
+https://www.easy-resize.com/pt/ - é uma ferramenta online gratuita para redimensionar imagens rapidamente. Com ele, você pode alterar o tamanho de imagens JPEG, PNG e outros formatos sem precisar instalar programas.
 https://www.pexels.com/pt-br/ - O Pexels é um site que oferece fotos e vídeos gratuitos de alta qualidade, licenciados para uso comercial e pessoal sem necessidade de atribuição (embora seja recomendado dar crédito aos fotógrafos)
 https://pixabay.com/ - é um site que oferece fotos, vídeos, ilustrações, vetores e músicas gratuitas para uso pessoal e comercial. Todo o conteúdo está licenciado sob a Pixabay License, o que significa que pode ser usado sem precisar de atribuição (embora seja apreciado).
 https://www.freepik.com/ - é um site que oferece vetores, fotos, PSDs e ícones gratuitos e pagos para designers e criadores de conteúdo. Ele é muito usado para encontrar recursos gráficos como templates, mockups, ilustrações e elementos decorativos para projetos visuais.
+https://www.flaticon.com/ - é um site que oferece ícones e stickers (adesivos digitais) em diversos formatos como PNG, SVG e EPS. Ele é muito utilizado por designers, desenvolvedores e criadores de conteúdo para adicionar ícones a interfaces, aplicativos, sites e apresentações.
+https://www.image-map.net/ - é uma ferramenta online gratuita que permite criar mapas de imagem HTML facilmente.
