@@ -1,2 +1,2 @@
-https://tinypng.com/ - redimensionar imagens
-
+https://tinypng.com/ - é uma ferramenta online que comprime imagens PNG e JPEG para reduzir o tamanho do arquivo sem perder qualidade perceptível. Ele usa técnicas de compressão inteligente para diminuir o peso das imagens, tornando-as mais leves para carregar em sites e aplicativos.
+https://www.pexels.com/pt-br/ - O Pexels é um site que oferece fotos e vídeos gratuitos de alta qualidade, licenciados para uso comercial e pessoal sem necessidade de atribuição (embora seja recomendado dar crédito aos fotógrafos)
